@@ -27,12 +27,7 @@ The script then calculates and displays the probability of each hand occurring, 
   - **Two Pair**
   - **One Pair**
   
-## How to Use
-
-### Requirements
-- MATLAB or Octave to run the script.
-
-### Instructions
+## Instructions
 1. Copy the script into a MATLAB file (e.g., `poker_hand_simulation.m`).
 2. Run the script in MATLAB/Octave.
 3. The script will output the number of times each hand occurred and the estimated probability for each hand type.
